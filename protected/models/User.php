@@ -2,7 +2,7 @@
 
 /**
  * This is the model class for table "user".
- *
+ * wawawawa
  * The followings are the available columns in table 'user':
  * @property string $id
  * @property string $username
